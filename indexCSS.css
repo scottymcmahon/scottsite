@@ -21,7 +21,7 @@ ul{
     text-decoration: none;
 }
 li{
-    position: absolute;
+    position: inherit;
 }
 #MenuBar{
     position: fixed;
