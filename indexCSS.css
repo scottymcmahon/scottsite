@@ -2,14 +2,15 @@ body{
     background-color: #ff6014;
     margin-bottom: 30px;
 }
-.MyFace{
-    position: absolute;
-    width: 130px;
-    height: 150px;
-}
+
 #AboutMe{
     position: fixed;
     right:100px;
     width: 100px;
-    height: 100px;
+    height: 500px;
+}
+.MyFace{
+    position: absolute;
+    width: 100px;
+    height: 150px;
 }
