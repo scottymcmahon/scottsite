@@ -16,10 +16,8 @@ body{
     width: 100px;
     height: 130px;
 }
-.Buttons{
+li{
     text-decoration: none;
-    text-decoration-color: white;
-
 }
 #MenuBar{
     position: fixed;
