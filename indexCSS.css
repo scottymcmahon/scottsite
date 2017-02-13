@@ -3,16 +3,18 @@ body{
     margin-bottom: 30px;
 }
 .MyFace{
+    position: absolute;
     width: 130px;
     height: 150px;
 }
 #AboutMe{
+    position: absolute;
     width: 500px;
     height: 500px;
 }
 
 #Footer{
-    position:fixed;
+    position:absolute;
     height:30px;
     bottom:0;
     left:0;
@@ -20,13 +22,13 @@ body{
     margin-bottom:0;
 }
 .ContactMe{
-    position: fixed;
+    position: absolute;
     height:30px;
     margin-left:0;
 }
 
 .copyright{
-    position: fixed;
+    position: absolute;
     height:30px;
     right:100%;
     margin-right:0;
