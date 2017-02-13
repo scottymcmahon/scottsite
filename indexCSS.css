@@ -10,7 +10,7 @@ body{
     height: 500px;
 }
 .MyFace{
-    position: absolute;
+    position: static;
     width: 100px;
-    height: 150px;
+    height: 130px;
 }
