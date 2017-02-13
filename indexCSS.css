@@ -16,3 +16,6 @@ body{
     width: 100px;
     height: 130px;
 }
+#MenuBar{
+    text-decoration: none;
+}
