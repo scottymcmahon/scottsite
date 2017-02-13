@@ -17,15 +17,13 @@ body{
     height: 130px;
 }
 
-#MenuBar{
+#MenuBar {
+    list-style: none;
     position: fixed;
     background-color: crimson;
-    width:400px;
-    left:100px;
-    right:100px;
-    top:0;
-    padding:5px;
-}
-#MenuBar.Buttons{
-    list-style: none;
+    width: 400px;
+    left: 100px;
+    right: 100px;
+    top: 0;
+    padding: 5px;
 }
