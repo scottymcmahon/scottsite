@@ -1,6 +1,10 @@
 body{
     background-color: peachpuff;
 }
+#MyFace{
+    width: 100px;
+    height: 150px;
+}
 #AboutMe{
     width: 500px;
     height: 500px;
