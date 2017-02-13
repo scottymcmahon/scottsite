@@ -1,10 +1,12 @@
 body{
     background-color: #ff6014;
+    margin-left:100px;
+    margin-right:100px;
 }
 
 #AboutMe{
     position: fixed;
-    right:100px;
+    right:0;
     width:300px;
     height: 500px;
     margin-left: 0;
