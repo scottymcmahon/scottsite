@@ -17,8 +17,11 @@ body{
     height: 130px;
 }
 
-#MenuBar {
+.Buttons{
     list-style: none;
+    text-decoration: none;
+}
+#MenuBar{
     position: fixed;
     background-color: crimson;
     width: 400px;
