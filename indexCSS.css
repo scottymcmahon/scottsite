@@ -11,11 +11,22 @@ body{
     height: 500px;
 }
 
-footer{
+#Footer{
     position:fixed;
-    height:50px;
+    height:30px;
     bottom:0;
     left:0;
     right:0;
     margin-bottom:0;
+}
+.ContactMe{
+    position: fixed;
+    height:30px;
+    margin-left:0;
+}
+
+.copyright{
+    position: fixed;
+    height:30px;
+    margin-right:0;
 }
