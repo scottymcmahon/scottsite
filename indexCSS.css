@@ -20,6 +20,9 @@ ul{
     list-style: none;
     text-decoration: none;
 }
+li{
+    position: absolute;
+}
 #MenuBar{
     position: fixed;
     background-color: crimson;
