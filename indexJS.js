@@ -3,5 +3,5 @@
  */
 
 for(var x=0; x< 1; x++){
-    alert("Welcome to my site... LOVE YOU JESS");
+    alert("Welcome to my site...");
 }
