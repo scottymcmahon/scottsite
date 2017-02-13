@@ -3,5 +3,5 @@
  */
 
 for(var x=0; x< 10; x++){
-    alert("Welcome to my site... This is message " + x + " of 10")
+    alert("Welcome to my site... This is message " + (x +1) + " of 10")
 }
