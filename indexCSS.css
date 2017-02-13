@@ -19,6 +19,7 @@ body{
 ul{
     list-style: none;
     text-decoration: none;
+    padding:5px;
 }
 li{
     position: absolute;
