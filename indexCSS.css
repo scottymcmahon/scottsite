@@ -7,8 +7,8 @@ body{
 #AboutMe{
     position: fixed;
     right: 100px;
-    width:300px;
-    height: 500px;
+    width:250px;
+    height:100%;
     margin-left: 0;
 }
 .MyFace{
