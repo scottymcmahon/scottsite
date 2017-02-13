@@ -28,5 +28,6 @@ body{
 .copyright{
     position: fixed;
     height:30px;
+    right:100%;
     margin-right:0;
 }
