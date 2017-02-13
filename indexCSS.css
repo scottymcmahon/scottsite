@@ -16,15 +16,7 @@ body{
     width: 100px;
     height: 130px;
 }
-ul{
-    list-style: none;
-    text-decoration: none;
-    padding:5px;
-}
-li{
-    position: absolute;
-    padding: 5px;
-}
+
 #MenuBar{
     position: fixed;
     background-color: crimson;
@@ -33,4 +25,7 @@ li{
     right:100px;
     top:0;
     padding:5px;
+}
+#MenuBar.li{
+    list-style: none;
 }
