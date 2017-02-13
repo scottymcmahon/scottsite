@@ -17,6 +17,7 @@ body{
     height: 130px;
 }
 ul{
+    list-style: none;
     text-decoration: none;
 }
 #MenuBar{
