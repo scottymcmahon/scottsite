@@ -17,5 +17,10 @@ body{
     height: 130px;
 }
 #MenuBar{
-    text-decoration: none;
+    position: fixed;
+    width:400px;
+    left:100px;
+    right:100px;
+    top:0;
+    padding:5px;
 }
