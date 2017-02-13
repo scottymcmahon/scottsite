@@ -4,8 +4,8 @@ body{
 
 #AboutMe{
     position: fixed;
-    right:0;
-    width:100px;
+    right:100px;
+    width:300px;
     height: 500px;
     margin-left: 0;
 }
