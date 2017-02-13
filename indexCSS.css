@@ -24,12 +24,13 @@ body{
 .ContactMe{
     position: absolute;
     height:30px;
+    left:100px;
     margin-left:0;
 }
 
 .copyright{
     position: absolute;
     height:30px;
-    right:100%;
+    right: 100px;
     margin-right:0;
 }
