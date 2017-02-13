@@ -18,9 +18,7 @@ body{
 }
 
 .Buttons{
-    position: relative;
-    list-style: none;
-    text-decoration: none;
+
 }
 #MenuBar{
     position: fixed;
@@ -30,4 +28,16 @@ body{
     right: 100px;
     top: 0;
     padding: 5px;
+}
+#MenuBar ul{
+    position: relative;
+    list-style: none;
+    text-decoration: none;
+}
+
+#MenuBar ul li{
+    position: relative;
+    list-style: none;
+    text-decoration: none;
+    display: inline;
 }
