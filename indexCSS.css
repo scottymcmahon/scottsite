@@ -10,7 +10,7 @@
 
 
 #MenuBar ul li{
-    position: fixed;
+    position: relative;
     list-style: none;
     text-decoration: none;
     display: inline;
