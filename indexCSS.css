@@ -33,7 +33,7 @@ body{
     align-items:center;
 }
 .MyFace{
-    position: static;
+    position: absolute;
     width: 175px;
     height: 200px;
 }
