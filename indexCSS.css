@@ -26,7 +26,7 @@
 }
 
 #MenuBar ul li{
-    left:0;
+    width:20%;
     right:0;
     display: inline-block;
     background-color: darkorange;
