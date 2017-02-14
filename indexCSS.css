@@ -2,6 +2,7 @@
 /*Main body CSS*/
 body{
     background-color: cornsilk;
+    padding: 150px;
 }
 
 /*Header CSS*/
@@ -15,11 +16,7 @@ body{
 }
 
 #MenuBar ul{
-    margin-left: 15%;
-    margin-right: 15%;
     width:70%;
-    padding-left: 15%;
-    padding-right:15%;
     align-items: center;
 }
 
