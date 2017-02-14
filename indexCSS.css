@@ -19,15 +19,13 @@
 }
 
 #MenuBar ul{
-    max-width: 940px;
-    min-width: 720px;
     margin: 0px auto 0px auto;
     text-align: center;
 }
 
 #MenuBar ul li{
-    max-width:188px;
-    min-width:144px;
+    width:20%;
+    height:100%;
     right:0;
     display: inline-block;
     background-color: darkorange;
