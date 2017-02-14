@@ -12,7 +12,8 @@
 #MenuBar{
     position: fixed;
     background-color: crimson;
-    width: 100%;
+    max-width: 940px;
+    min-width: 720px;
     height: 10%;
     left: 0;
     top: 0;
@@ -24,8 +25,6 @@
 }
 
 #MenuBar ul li{
-    width:20%;
-    height:100%;
     right:0;
     display: inline-block;
     background-color: darkorange;
