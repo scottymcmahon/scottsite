@@ -26,11 +26,10 @@ body{
 #AboutMe{
     position: fixed;
     right:0;
-    bottom:0;
-    padding: 20px;
+    top:10%;
+    margin: 20px;
     width: 100px;
     height:100%;
-    margin-left: 0;
 }
 .MyFace{
     position: static;
