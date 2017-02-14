@@ -24,16 +24,16 @@ body{
 
 #AboutMe{
     position: fixed;
-    right:0;
+    right:5%;
     bottom:0;
-    width:250px;
+    width:20%;
     height:90%;
     margin-left: 0;
 }
 .MyFace{
     position: static;
-    width: 100px;
-    height: 130px;
+    width: 20%;
+    height: 5%;
 }
 
 .Buttons{
