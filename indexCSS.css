@@ -1,8 +1,17 @@
 /*Author-- Scotty McMahon E-Mail: scottmcmahondev@outlook.com*/
 /*Main body CSS*/
 body{
-    background-color: cornsilk;
+    background-color: #efefef;
     padding: 15%;
+}
+
+#page{
+    max-width: 940px;
+    min-width: 720px;
+    margin:10px auto 10px auto;
+    padding: 20px;
+    border: 4px double #000;
+    background-color: #ffffff;
 }
 
 /*Header CSS*/
