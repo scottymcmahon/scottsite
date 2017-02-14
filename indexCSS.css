@@ -1,3 +1,12 @@
+/*Author-- Scotty McMahon E-Mail: scottmcmahondev@outlook.com*/
+/*Main body CSS*/
+body{
+    background-color: cornsilk;
+    margin-left:100px;
+    margin-right:100px;
+}
+
+/*Header CSS*/
 #MenuBar{
     position: fixed;
     background-color: crimson;
@@ -7,41 +16,10 @@
     top: 0;
     padding: 5px;
 }
-
-
 #MenuBar ul li{
     position: relative;
     list-style: none;
     text-decoration: none;
     display: inline;
     padding: 20px;
-}
-
-body{
-    background-color: cornsilk;
-    margin-left:100px;
-    margin-right:100px;
-}
-
-#AboutMe{
-    position: fixed;
-    right:0;
-    top:10%;
-    margin: 20px;
-    width: 200px;
-    height:100%;
-    align-items:center;
-}
-
-#AboutMe.MyFace{
-    position: absolute;
-    width: 175px;
-    height: 200px;
-    padding:20px;
-}
-
-#AboutMe ul{
-    position: absolute;
-    width: 200px;
-    align-items:center;
 }
