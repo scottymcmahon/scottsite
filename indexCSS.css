@@ -16,13 +16,13 @@ body{
 }
 
 #MenuBar ul{
-    left:0;
-    right:0;
     width:70%;
     align-items: center;
 }
 
 #MenuBar ul li{
+    left:0;
+    right:0;
     display: inline-block;
     background-color: darkorange;
     padding: 10px;
