@@ -21,7 +21,6 @@
 #MenuBar ul{
     max-width: 940px;
     min-width: 720px;
-    padding: 15px;
     margin: 0px auto 0px auto;
     text-align: center;
 }
@@ -31,7 +30,6 @@
     right:0;
     display: inline-block;
     background-color: darkorange;
-    padding: 10px;
     list-style: none;
     text-decoration: none;
 }
