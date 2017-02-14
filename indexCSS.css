@@ -28,11 +28,12 @@ body{
     right:0;
     top:10%;
     margin: 20px;
-    width: 100px;
+    width: 200px;
     height:100%;
+    align-items:center;
 }
 .MyFace{
     position: static;
-    width: 20%;
-    height: 5%;
+    width: 150px;
+    height: 200px;
 }
