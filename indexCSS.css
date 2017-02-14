@@ -19,9 +19,10 @@
 }
 
 #MenuBar ul{
+    width: 570px;
+    padding: 15px;
+    margin: 0px auto 0px auto;
     text-align: center;
-    width:70%;
-    align-items: center;
 }
 
 #MenuBar ul li{
