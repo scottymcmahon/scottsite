@@ -19,7 +19,8 @@
 }
 
 #MenuBar ul{
-    width: 570px;
+    max-width: 940px;
+    min-width: 720px;
     padding: 15px;
     margin: 0px auto 0px auto;
     text-align: center;
