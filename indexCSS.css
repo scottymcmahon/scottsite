@@ -7,7 +7,7 @@ body{
 }
 
 /*Header CSS*/
-#MenuBar {
+#MenuBar{
     position: fixed;
     background-color: crimson;
     width: 100%;
@@ -18,9 +18,10 @@ body{
 }
 
 #MenuBar ul li{
-    left: 50%;
-    right:50%;
     display: inline;
+    background-color: darkorange;
+    border-color: black;
+    border-style: double;
     padding: 20px;
     list-style: none;
     text-decoration: none;
