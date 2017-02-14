@@ -33,3 +33,7 @@
     list-style: none;
     text-decoration: none;
 }
+
+#MainBody{
+    margin-top: 100px;
+}
