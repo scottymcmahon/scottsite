@@ -17,6 +17,7 @@ body{
 
 #MenuBar ul li{
     position: absolute;
+    margin:1px;
     display: inline;
     background-color: darkorange;
     padding: 10px;
