@@ -10,7 +10,7 @@
 
 
 #MenuBar ul li{
-    position: relative;
+    position: fixed;
     list-style: none;
     text-decoration: none;
     display: inline;
@@ -33,14 +33,15 @@ body{
     align-items:center;
 }
 
-#AboutMe ul{
-    position: absolute;
-    width: 200px;
-    align-items:center;
-}
-.MyFace{
+#MyFace{
     position: absolute;
     width: 175px;
     height: 200px;
     padding:20px;
+}
+
+#AboutMe ul{
+    position: absolute;
+    width: 200px;
+    align-items:center;
 }
