@@ -20,7 +20,9 @@ body{
     background-color: darkorange;
     border-color: black;
     border-style: double;
-    padding: 50px;
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
     list-style: none;
     text-decoration: none;
 }
