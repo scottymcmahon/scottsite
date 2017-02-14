@@ -4,6 +4,8 @@ body{
     background-color: cornsilk;
 }
 
+
+
 /*Header CSS*/
 #MenuBar{
     position: fixed;
@@ -15,7 +17,7 @@ body{
 }
 
 #MenuBar ul li{
-    display: inline;
+    display: inline-block;
     background-color: darkorange;
     padding: 10px;
     list-style: none;
