@@ -19,6 +19,7 @@
 }
 
 #MenuBar ul{
+    text-align: center;
     width:70%;
     align-items: center;
 }
