@@ -4,8 +4,6 @@ body{
     background-color: cornsilk;
 }
 
-
-
 /*Header CSS*/
 #MenuBar{
     position: fixed;
@@ -14,6 +12,10 @@ body{
     height: 10%;
     left: 0;
     top: 0;
+}
+
+#MenuBar ul{
+    horiz-align: center;
 }
 
 #MenuBar ul li{
