@@ -32,6 +32,12 @@ body{
     height:100%;
     align-items:center;
 }
+
+#AboutMe ul{
+    position: absolute;
+    width: 200px;
+    align-items:center;
+}
 .MyFace{
     position: absolute;
     width: 175px;
