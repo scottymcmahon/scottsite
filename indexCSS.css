@@ -16,6 +16,8 @@ body{
 }
 
 #MenuBar ul{
+    left:0;
+    right:0;
     width:70%;
     align-items: center;
 }
@@ -26,7 +28,4 @@ body{
     padding: 10px;
     list-style: none;
     text-decoration: none;
-}
-
-#MainBody{
 }
