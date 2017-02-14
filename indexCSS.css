@@ -17,11 +17,8 @@ body{
     padding: 5px;
 }
 #MenuBar ul li{
-    position: relative;
     display: inline;
-    margin: 20px;
     padding: 20px;
     list-style: none;
     text-decoration: none;
-    align-items:center;
 }
