@@ -15,7 +15,7 @@ body{
 }
 
 #MenuBar ul{
-    horiz-align: center;
+    align-items: center;
 }
 
 #MenuBar ul li{
